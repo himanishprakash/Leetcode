@@ -15,6 +15,7 @@ Explain each solution in my own language
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/himanishprakash/Leetcode/tree/master/0014-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/himanishprakash/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/himanishprakash/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
@@ -41,4 +42,8 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/himanishprakash/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/himanishprakash/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
