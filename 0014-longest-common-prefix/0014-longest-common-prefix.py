@@ -9,13 +9,14 @@ class Solution:
             return strs[0]
 
         
-        first_letter = strs[0]
-        length = len(first_letter)
+        
+        length = len(min(strs, key = len))
+        first_word = strs[0][:length]
 
         for i in strs[1:]:
-
-            while first_letter != i[:length]:
-                first_letter = first_letter[:(length -1)]
+        
+            while first_word != i[:length]:
+                first_word = first_word[:(length -1)]
                 length -= 1
 
 
@@ -23,6 +24,6 @@ class Solution:
                     return ""
 
 
-        return first_letter
+        return first_word
 
             
