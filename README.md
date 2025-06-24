@@ -30,6 +30,7 @@ Explain each solution in my own language
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/himanishprakash/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0064-minimum-path-sum](https://github.com/himanishprakash/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0134-gas-station](https://github.com/himanishprakash/Leetcode/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/himanishprakash/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -73,4 +74,12 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/himanishprakash/Leetcode/tree/master/0064-minimum-path-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/himanishprakash/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/himanishprakash/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
