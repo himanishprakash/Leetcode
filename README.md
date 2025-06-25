@@ -12,6 +12,7 @@ Explain each solution in my own language
 ## Math
 |  |
 | ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/himanishprakash/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/himanishprakash/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
@@ -89,4 +90,8 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/himanishprakash/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/himanishprakash/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 <!---LeetCode Topics End-->
