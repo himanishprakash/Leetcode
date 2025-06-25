@@ -36,6 +36,7 @@ Explain each solution in my own language
 | [0238-product-of-array-except-self](https://github.com/himanishprakash/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0883-car-fleet](https://github.com/himanishprakash/Leetcode/tree/master/0883-car-fleet) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/himanishprakash/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/himanishprakash/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/himanishprakash/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Greedy
 |  |
@@ -79,6 +80,7 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/himanishprakash/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/himanishprakash/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
