@@ -7,6 +7,7 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/himanishprakash/Leetcode/tree/master/0383-ransom-note) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/himanishprakash/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/himanishprakash/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/himanishprakash/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Math
@@ -42,6 +43,7 @@ Explain each solution in my own language
 | [0883-car-fleet](https://github.com/himanishprakash/Leetcode/tree/master/0883-car-fleet) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/himanishprakash/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/himanishprakash/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/himanishprakash/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/himanishprakash/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Greedy
 |  |
@@ -54,6 +56,7 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [0883-car-fleet](https://github.com/himanishprakash/Leetcode/tree/master/0883-car-fleet) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/himanishprakash/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/himanishprakash/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Prefix Sum
 |  |
@@ -124,4 +127,8 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/himanishprakash/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/himanishprakash/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 <!---LeetCode Topics End-->
