@@ -14,6 +14,7 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [2202-sum-of-k-mirror-numbers](https://github.com/himanishprakash/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/himanishprakash/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/himanishprakash/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
@@ -72,6 +73,7 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/himanishprakash/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/himanishprakash/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
 | ------- |
@@ -123,6 +125,7 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/himanishprakash/Leetcode/tree/master/0206-reverse-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/himanishprakash/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
@@ -135,4 +138,8 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/himanishprakash/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/himanishprakash/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
