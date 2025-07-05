@@ -3,12 +3,11 @@ class Solution:
         
         counts = Counter(arr)
         answer = -1
-        count = dict(sorted(counts.items()))
         
-        for key , value in count.items():
+        for key , value in counts.items():
 
             if key == value:
-                answer = key
+                answer = max(answer,key)
 
 
         return answer
