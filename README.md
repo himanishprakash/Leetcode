@@ -27,6 +27,7 @@ Explain each solution in my own language
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/himanishprakash/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/himanishprakash/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/himanishprakash/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3396-valid-word](https://github.com/himanishprakash/Leetcode/tree/master/3396-valid-word) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/himanishprakash/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
