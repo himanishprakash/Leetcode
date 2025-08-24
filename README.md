@@ -11,6 +11,7 @@ Explain each solution in my own language
 | [0146-lru-cache](https://github.com/himanishprakash/Leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/himanishprakash/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/himanishprakash/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/himanishprakash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/himanishprakash/Leetcode/tree/master/0383-ransom-note) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/himanishprakash/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/himanishprakash/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -39,6 +40,7 @@ Explain each solution in my own language
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/himanishprakash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/himanishprakash/Leetcode/tree/master/0383-ransom-note) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/himanishprakash/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/himanishprakash/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -55,6 +57,7 @@ Explain each solution in my own language
 | [0134-gas-station](https://github.com/himanishprakash/Leetcode/tree/master/0134-gas-station) |
 | [0217-contains-duplicate](https://github.com/himanishprakash/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/himanishprakash/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/himanishprakash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/himanishprakash/Leetcode/tree/master/0883-car-fleet) |
 | [1343-dice-roll-simulation](https://github.com/himanishprakash/Leetcode/tree/master/1343-dice-roll-simulation) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/himanishprakash/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -82,6 +85,7 @@ Explain each solution in my own language
 | [0049-group-anagrams](https://github.com/himanishprakash/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/himanishprakash/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/himanishprakash/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/himanishprakash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/himanishprakash/Leetcode/tree/master/0883-car-fleet) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanishprakash/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/himanishprakash/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -140,6 +144,7 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/himanishprakash/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/himanishprakash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -176,6 +181,7 @@ Explain each solution in my own language
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/himanishprakash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/himanishprakash/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Bit Manipulation
 |  |
@@ -209,4 +215,12 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/himanishprakash/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/himanishprakash/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/himanishprakash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
