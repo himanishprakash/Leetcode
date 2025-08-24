@@ -59,6 +59,7 @@ Explain each solution in my own language
 | [1343-dice-roll-simulation](https://github.com/himanishprakash/Leetcode/tree/master/1343-dice-roll-simulation) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/himanishprakash/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/himanishprakash/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/himanishprakash/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanishprakash/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/himanishprakash/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/himanishprakash/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -118,6 +119,7 @@ Explain each solution in my own language
 | [0064-minimum-path-sum](https://github.com/himanishprakash/Leetcode/tree/master/0064-minimum-path-sum) |
 | [1343-dice-roll-simulation](https://github.com/himanishprakash/Leetcode/tree/master/1343-dice-roll-simulation) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/himanishprakash/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/himanishprakash/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/himanishprakash/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/himanishprakash/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/himanishprakash/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -203,4 +205,8 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/himanishprakash/Leetcode/tree/master/0146-lru-cache) |
+## Sliding Window
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/himanishprakash/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
