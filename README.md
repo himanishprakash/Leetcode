@@ -30,6 +30,7 @@ Explain each solution in my own language
 | [0014-longest-common-prefix](https://github.com/himanishprakash/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/himanishprakash/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/himanishprakash/Leetcode/tree/master/0242-valid-anagram) |
+| [0271-encode-and-decode-strings](https://github.com/himanishprakash/Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0383-ransom-note](https://github.com/himanishprakash/Leetcode/tree/master/0383-ransom-note) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/himanishprakash/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/himanishprakash/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -57,6 +58,7 @@ Explain each solution in my own language
 | [0134-gas-station](https://github.com/himanishprakash/Leetcode/tree/master/0134-gas-station) |
 | [0217-contains-duplicate](https://github.com/himanishprakash/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/himanishprakash/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0271-encode-and-decode-strings](https://github.com/himanishprakash/Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/himanishprakash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/himanishprakash/Leetcode/tree/master/0883-car-fleet) |
 | [1343-dice-roll-simulation](https://github.com/himanishprakash/Leetcode/tree/master/1343-dice-roll-simulation) |
@@ -207,6 +209,7 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/himanishprakash/Leetcode/tree/master/0146-lru-cache) |
+| [0271-encode-and-decode-strings](https://github.com/himanishprakash/Leetcode/tree/master/0271-encode-and-decode-strings) |
 ## Doubly-Linked List
 |  |
 | ------- |
