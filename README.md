@@ -32,6 +32,7 @@ Explain each solution in my own language
 | [0242-valid-anagram](https://github.com/himanishprakash/Leetcode/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/himanishprakash/Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0383-ransom-note](https://github.com/himanishprakash/Leetcode/tree/master/0383-ransom-note) |
+| [1271-web-crawler](https://github.com/himanishprakash/Leetcode/tree/master/1271-web-crawler) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/himanishprakash/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/himanishprakash/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/himanishprakash/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -197,6 +198,7 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/himanishprakash/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1271-web-crawler](https://github.com/himanishprakash/Leetcode/tree/master/1271-web-crawler) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -226,4 +228,12 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/himanishprakash/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1271-web-crawler](https://github.com/himanishprakash/Leetcode/tree/master/1271-web-crawler) |
+## Interactive
+|  |
+| ------- |
+| [1271-web-crawler](https://github.com/himanishprakash/Leetcode/tree/master/1271-web-crawler) |
 <!---LeetCode Topics End-->
