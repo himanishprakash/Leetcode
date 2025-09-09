@@ -8,6 +8,7 @@ Explain each solution in my own language
 | ------- |
 | [0001-two-sum](https://github.com/himanishprakash/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/himanishprakash/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/himanishprakash/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/himanishprakash/Leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/himanishprakash/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/himanishprakash/Leetcode/tree/master/0242-valid-anagram) |
@@ -56,6 +57,7 @@ Explain each solution in my own language
 | [0042-trapping-rain-water](https://github.com/himanishprakash/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/himanishprakash/Leetcode/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/himanishprakash/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/himanishprakash/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/himanishprakash/Leetcode/tree/master/0134-gas-station) |
 | [0217-contains-duplicate](https://github.com/himanishprakash/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/himanishprakash/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -236,4 +238,8 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [1271-web-crawler](https://github.com/himanishprakash/Leetcode/tree/master/1271-web-crawler) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/himanishprakash/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
