@@ -56,6 +56,7 @@ Explain each solution in my own language
 | [0004-median-of-two-sorted-arrays](https://github.com/himanishprakash/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/himanishprakash/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/himanishprakash/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/himanishprakash/Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/himanishprakash/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/himanishprakash/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/himanishprakash/Leetcode/tree/master/0134-gas-station) |
@@ -89,6 +90,7 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/himanishprakash/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/himanishprakash/Leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/himanishprakash/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/himanishprakash/Leetcode/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/himanishprakash/Leetcode/tree/master/0252-meeting-rooms) |
