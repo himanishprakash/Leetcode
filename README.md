@@ -66,6 +66,7 @@ Explain each solution in my own language
 | [0217-contains-duplicate](https://github.com/himanishprakash/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/himanishprakash/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0252-meeting-rooms](https://github.com/himanishprakash/Leetcode/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/himanishprakash/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0271-encode-and-decode-strings](https://github.com/himanishprakash/Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/himanishprakash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/himanishprakash/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -88,6 +89,7 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/himanishprakash/Leetcode/tree/master/0134-gas-station) |
+| [0253-meeting-rooms-ii](https://github.com/himanishprakash/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0435-non-overlapping-intervals](https://github.com/himanishprakash/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/himanishprakash/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/himanishprakash/Leetcode/tree/master/0621-task-scheduler) |
@@ -103,6 +105,7 @@ Explain each solution in my own language
 | [0217-contains-duplicate](https://github.com/himanishprakash/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/himanishprakash/Leetcode/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/himanishprakash/Leetcode/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/himanishprakash/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/himanishprakash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/himanishprakash/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/himanishprakash/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -116,6 +119,7 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/himanishprakash/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/himanishprakash/Leetcode/tree/master/0253-meeting-rooms-ii) |
 ## Trie
 |  |
 | ------- |
@@ -172,6 +176,7 @@ Explain each solution in my own language
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/himanishprakash/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/himanishprakash/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0253-meeting-rooms-ii](https://github.com/himanishprakash/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanishprakash/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/himanishprakash/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/himanishprakash/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -203,6 +208,7 @@ Explain each solution in my own language
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/himanishprakash/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/himanishprakash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/himanishprakash/Leetcode/tree/master/0621-task-scheduler) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/himanishprakash/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
