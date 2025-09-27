@@ -66,6 +66,7 @@ Explain each solution in my own language
 | [0252-meeting-rooms](https://github.com/himanishprakash/Leetcode/tree/master/0252-meeting-rooms) |
 | [0271-encode-and-decode-strings](https://github.com/himanishprakash/Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/himanishprakash/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/himanishprakash/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/himanishprakash/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0883-car-fleet](https://github.com/himanishprakash/Leetcode/tree/master/0883-car-fleet) |
 | [1343-dice-roll-simulation](https://github.com/himanishprakash/Leetcode/tree/master/1343-dice-roll-simulation) |
@@ -84,6 +85,7 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/himanishprakash/Leetcode/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/himanishprakash/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/himanishprakash/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/himanishprakash/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/himanishprakash/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -98,6 +100,7 @@ Explain each solution in my own language
 | [0242-valid-anagram](https://github.com/himanishprakash/Leetcode/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/himanishprakash/Leetcode/tree/master/0252-meeting-rooms) |
 | [0347-top-k-frequent-elements](https://github.com/himanishprakash/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/himanishprakash/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/himanishprakash/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0883-car-fleet](https://github.com/himanishprakash/Leetcode/tree/master/0883-car-fleet) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanishprakash/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -134,6 +137,7 @@ Explain each solution in my own language
 | ------- |
 | [0042-trapping-rain-water](https://github.com/himanishprakash/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/himanishprakash/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0435-non-overlapping-intervals](https://github.com/himanishprakash/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1343-dice-roll-simulation](https://github.com/himanishprakash/Leetcode/tree/master/1343-dice-roll-simulation) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/himanishprakash/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/himanishprakash/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
