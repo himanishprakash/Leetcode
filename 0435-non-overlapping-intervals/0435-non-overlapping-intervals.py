@@ -5,15 +5,14 @@ class Solution:
 
         answer = 0
 
-        staring = float('-inf')
+        k = float('-inf')
 
         for x, y in intervals:
 
-            if x >=  staring:
-                staring = y
+            if x >= k:
+                k = y
 
             else:
                 answer += 1
 
-            
         return answer
