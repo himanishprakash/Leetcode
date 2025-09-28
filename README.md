@@ -73,6 +73,7 @@ Explain each solution in my own language
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/himanishprakash/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/himanishprakash/Leetcode/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/himanishprakash/Leetcode/tree/master/0883-car-fleet) |
+| [1028-interval-list-intersections](https://github.com/himanishprakash/Leetcode/tree/master/1028-interval-list-intersections) |
 | [1343-dice-roll-simulation](https://github.com/himanishprakash/Leetcode/tree/master/1343-dice-roll-simulation) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/himanishprakash/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/himanishprakash/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -177,6 +178,7 @@ Explain each solution in my own language
 | [0019-remove-nth-node-from-end-of-list](https://github.com/himanishprakash/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/himanishprakash/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0253-meeting-rooms-ii](https://github.com/himanishprakash/Leetcode/tree/master/0253-meeting-rooms-ii) |
+| [1028-interval-list-intersections](https://github.com/himanishprakash/Leetcode/tree/master/1028-interval-list-intersections) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanishprakash/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/himanishprakash/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/himanishprakash/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -280,4 +282,8 @@ Explain each solution in my own language
 | ------- |
 | [0207-course-schedule](https://github.com/himanishprakash/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/himanishprakash/Leetcode/tree/master/0210-course-schedule-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/himanishprakash/Leetcode/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->
