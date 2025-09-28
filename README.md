@@ -223,6 +223,7 @@ Explain each solution in my own language
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/himanishprakash/Leetcode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/himanishprakash/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1271-web-crawler](https://github.com/himanishprakash/Leetcode/tree/master/1271-web-crawler) |
 ## Binary Search Tree
@@ -257,6 +258,7 @@ Explain each solution in my own language
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/himanishprakash/Leetcode/tree/master/0207-course-schedule) |
 | [1271-web-crawler](https://github.com/himanishprakash/Leetcode/tree/master/1271-web-crawler) |
 ## Interactive
 |  |
@@ -266,4 +268,12 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/himanishprakash/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/himanishprakash/Leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/himanishprakash/Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
