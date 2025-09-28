@@ -224,6 +224,7 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/himanishprakash/Leetcode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/himanishprakash/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/himanishprakash/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1271-web-crawler](https://github.com/himanishprakash/Leetcode/tree/master/1271-web-crawler) |
 ## Binary Search Tree
@@ -259,6 +260,7 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/himanishprakash/Leetcode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/himanishprakash/Leetcode/tree/master/0210-course-schedule-ii) |
 | [1271-web-crawler](https://github.com/himanishprakash/Leetcode/tree/master/1271-web-crawler) |
 ## Interactive
 |  |
@@ -272,8 +274,10 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/himanishprakash/Leetcode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/himanishprakash/Leetcode/tree/master/0210-course-schedule-ii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/himanishprakash/Leetcode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/himanishprakash/Leetcode/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
