@@ -75,6 +75,7 @@ Explain each solution in my own language
 | [0883-car-fleet](https://github.com/himanishprakash/Leetcode/tree/master/0883-car-fleet) |
 | [1028-interval-list-intersections](https://github.com/himanishprakash/Leetcode/tree/master/1028-interval-list-intersections) |
 | [1165-meeting-scheduler](https://github.com/himanishprakash/Leetcode/tree/master/1165-meeting-scheduler) |
+| [1184-car-pooling](https://github.com/himanishprakash/Leetcode/tree/master/1184-car-pooling) |
 | [1343-dice-roll-simulation](https://github.com/himanishprakash/Leetcode/tree/master/1343-dice-roll-simulation) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/himanishprakash/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/himanishprakash/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -114,6 +115,7 @@ Explain each solution in my own language
 | [0621-task-scheduler](https://github.com/himanishprakash/Leetcode/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/himanishprakash/Leetcode/tree/master/0883-car-fleet) |
 | [1165-meeting-scheduler](https://github.com/himanishprakash/Leetcode/tree/master/1165-meeting-scheduler) |
+| [1184-car-pooling](https://github.com/himanishprakash/Leetcode/tree/master/1184-car-pooling) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanishprakash/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/himanishprakash/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/himanishprakash/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -123,6 +125,7 @@ Explain each solution in my own language
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/himanishprakash/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/himanishprakash/Leetcode/tree/master/0253-meeting-rooms-ii) |
+| [1184-car-pooling](https://github.com/himanishprakash/Leetcode/tree/master/1184-car-pooling) |
 ## Trie
 |  |
 | ------- |
@@ -130,6 +133,7 @@ Explain each solution in my own language
 ## Simulation
 |  |
 | ------- |
+| [1184-car-pooling](https://github.com/himanishprakash/Leetcode/tree/master/1184-car-pooling) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/himanishprakash/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/himanishprakash/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
@@ -216,6 +220,7 @@ Explain each solution in my own language
 | [0253-meeting-rooms-ii](https://github.com/himanishprakash/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/himanishprakash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/himanishprakash/Leetcode/tree/master/0621-task-scheduler) |
+| [1184-car-pooling](https://github.com/himanishprakash/Leetcode/tree/master/1184-car-pooling) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/himanishprakash/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Bit Manipulation
 |  |
