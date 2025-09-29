@@ -86,6 +86,7 @@ Explain each solution in my own language
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/himanishprakash/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanishprakash/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/himanishprakash/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [2012-process-tasks-using-servers](https://github.com/himanishprakash/Leetcode/tree/master/2012-process-tasks-using-servers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/himanishprakash/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/himanishprakash/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/himanishprakash/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -237,6 +238,7 @@ Explain each solution in my own language
 | [0630-course-schedule-iii](https://github.com/himanishprakash/Leetcode/tree/master/0630-course-schedule-iii) |
 | [1184-car-pooling](https://github.com/himanishprakash/Leetcode/tree/master/1184-car-pooling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/himanishprakash/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2012-process-tasks-using-servers](https://github.com/himanishprakash/Leetcode/tree/master/2012-process-tasks-using-servers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/himanishprakash/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/himanishprakash/Leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Bit Manipulation
