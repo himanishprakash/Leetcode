@@ -1,23 +1,24 @@
 class Solution:
     def leastInterval(self, tasks: List[str], n: int) -> int:
 
-        counts = [0] * 26
+        task = [0] * 26
 
-        for task in tasks:
-            counts[ord(task) - ord('A')] += 1
+        for t in tasks:
+            task[ord(t) - ord('A')] += 1
 
-        
+        task.sort()
 
-        counts.sort()
+        max_slot = task[25] - 1
 
-        max_slot = counts[25] - 1
-        idle_slots = max_slot * n
+        idle_slot = max_slot * n
 
         for i in range(24, -1, -1):
-            idle_slots -= min(max_slot, counts[i])
 
-        if idle_slots >0:
-            return idle_slots + len(tasks)
+            idle_slot -= min(max_slot,task[i])
+
+
+        if idle_slot > 0:
+            return idle_slot + len(tasks)
+
         else:
             return len(tasks)
-        
