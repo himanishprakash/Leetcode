@@ -3,17 +3,13 @@ class Solution:
 
         intervals.sort()
 
-        answer = []
-
-        heapq.heappush(answer, intervals[0][1])
-
+        array = []
+        heappush(array,intervals[0][1] )
         for i in intervals[1:]:
 
-            if answer[0] <= i[0]:
+            if array[0] <= i[0]:
+                heappop(array)      
+            
+            heappush(array,i[1])  
 
-                heapq.heappop(answer)
-
-            heapq.heappush(answer,i[1] )
-
-        return len(answer)
-
+        return len(array)
