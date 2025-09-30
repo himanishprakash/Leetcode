@@ -2,33 +2,27 @@ class Solution:
     def mostBooked(self, n: int, meetings: List[List[int]]) -> int:
         
         room_avail_time = [0] * n
-        meeting_count = [0] * n
+        meeting_counts = [0] * n
 
         for start, end in sorted(meetings):
-            min_available_time = inf
-            min_avail_time = 0
-            room_avail = False
+            min_room_avail_time = inf
+            room_index = 0
+            room_found = False
 
             for i in range(n):
-
-                if room_avail_time[i] <= start:
-                    room_avail = True
+                if room_avail_time[i] <= start: 
+                    room_found = True   
+                    meeting_counts[i] += 1
                     room_avail_time[i] = end
-                    meeting_count[i] += 1
                     break
 
-                if min_available_time > room_avail_time[i]:
-                    min_available_time = room_avail_time[i]
-                    min_avail_time = i
-
-                
-            if not room_avail:
-                room_avail_time[min_avail_time] += end -start
-                meeting_count[min_avail_time] += 1 
-
-        
-        return meeting_count.index(max(meeting_count))
+                if min_room_avail_time > room_avail_time[i]:
+                    min_room_avail_time = room_avail_time[i]
+                    room_index = i
+            
+            if not room_found:
+                room_avail_time[room_index] += end - start
+                meeting_counts[room_index] += 1
 
 
-
-
+        return meeting_counts.index(max(meeting_counts))
