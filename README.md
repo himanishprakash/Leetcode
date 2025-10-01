@@ -72,6 +72,7 @@ Explain each solution in my own language
 | [0252-meeting-rooms](https://github.com/himanishprakash/Leetcode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/himanishprakash/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0271-encode-and-decode-strings](https://github.com/himanishprakash/Leetcode/tree/master/0271-encode-and-decode-strings) |
+| [0300-longest-increasing-subsequence](https://github.com/himanishprakash/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/himanishprakash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/himanishprakash/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/himanishprakash/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -171,6 +172,7 @@ Explain each solution in my own language
 | ------- |
 | [0042-trapping-rain-water](https://github.com/himanishprakash/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/himanishprakash/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/himanishprakash/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/himanishprakash/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1343-dice-roll-simulation](https://github.com/himanishprakash/Leetcode/tree/master/1343-dice-roll-simulation) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/himanishprakash/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -190,6 +192,7 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/himanishprakash/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0300-longest-increasing-subsequence](https://github.com/himanishprakash/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/himanishprakash/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/himanishprakash/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/himanishprakash/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
