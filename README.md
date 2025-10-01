@@ -78,6 +78,7 @@ Explain each solution in my own language
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/himanishprakash/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/himanishprakash/Leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/himanishprakash/Leetcode/tree/master/0630-course-schedule-iii) |
+| [0735-asteroid-collision](https://github.com/himanishprakash/Leetcode/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/himanishprakash/Leetcode/tree/master/0883-car-fleet) |
 | [1028-interval-list-intersections](https://github.com/himanishprakash/Leetcode/tree/master/1028-interval-list-intersections) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/himanishprakash/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -151,6 +152,7 @@ Explain each solution in my own language
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/himanishprakash/Leetcode/tree/master/0735-asteroid-collision) |
 | [1184-car-pooling](https://github.com/himanishprakash/Leetcode/tree/master/1184-car-pooling) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/himanishprakash/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/himanishprakash/Leetcode/tree/master/2479-meeting-rooms-iii) |
@@ -159,6 +161,7 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/himanishprakash/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0735-asteroid-collision](https://github.com/himanishprakash/Leetcode/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/himanishprakash/Leetcode/tree/master/0883-car-fleet) |
 | [1628-count-submatrices-with-all-ones](https://github.com/himanishprakash/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Monotonic Stack
