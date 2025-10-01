@@ -76,6 +76,7 @@ Explain each solution in my own language
 | [0630-course-schedule-iii](https://github.com/himanishprakash/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0883-car-fleet](https://github.com/himanishprakash/Leetcode/tree/master/0883-car-fleet) |
 | [1028-interval-list-intersections](https://github.com/himanishprakash/Leetcode/tree/master/1028-interval-list-intersections) |
+| [1127-last-stone-weight](https://github.com/himanishprakash/Leetcode/tree/master/1127-last-stone-weight) |
 | [1165-meeting-scheduler](https://github.com/himanishprakash/Leetcode/tree/master/1165-meeting-scheduler) |
 | [1184-car-pooling](https://github.com/himanishprakash/Leetcode/tree/master/1184-car-pooling) |
 | [1343-dice-roll-simulation](https://github.com/himanishprakash/Leetcode/tree/master/1343-dice-roll-simulation) |
@@ -236,6 +237,7 @@ Explain each solution in my own language
 | [0347-top-k-frequent-elements](https://github.com/himanishprakash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/himanishprakash/Leetcode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/himanishprakash/Leetcode/tree/master/0630-course-schedule-iii) |
+| [1127-last-stone-weight](https://github.com/himanishprakash/Leetcode/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/himanishprakash/Leetcode/tree/master/1184-car-pooling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/himanishprakash/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2012-process-tasks-using-servers](https://github.com/himanishprakash/Leetcode/tree/master/2012-process-tasks-using-servers) |
