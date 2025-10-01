@@ -15,6 +15,7 @@ Explain each solution in my own language
 | [0347-top-k-frequent-elements](https://github.com/himanishprakash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/himanishprakash/Leetcode/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/himanishprakash/Leetcode/tree/master/0621-task-scheduler) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/himanishprakash/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/himanishprakash/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/himanishprakash/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/himanishprakash/Leetcode/tree/master/2479-meeting-rooms-iii) |
@@ -35,6 +36,7 @@ Explain each solution in my own language
 | [0242-valid-anagram](https://github.com/himanishprakash/Leetcode/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/himanishprakash/Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0383-ransom-note](https://github.com/himanishprakash/Leetcode/tree/master/0383-ransom-note) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/himanishprakash/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1271-web-crawler](https://github.com/himanishprakash/Leetcode/tree/master/1271-web-crawler) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/himanishprakash/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/himanishprakash/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -48,6 +50,7 @@ Explain each solution in my own language
 | [0347-top-k-frequent-elements](https://github.com/himanishprakash/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/himanishprakash/Leetcode/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/himanishprakash/Leetcode/tree/master/0621-task-scheduler) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/himanishprakash/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/himanishprakash/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/himanishprakash/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/himanishprakash/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -76,6 +79,7 @@ Explain each solution in my own language
 | [0630-course-schedule-iii](https://github.com/himanishprakash/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0883-car-fleet](https://github.com/himanishprakash/Leetcode/tree/master/0883-car-fleet) |
 | [1028-interval-list-intersections](https://github.com/himanishprakash/Leetcode/tree/master/1028-interval-list-intersections) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/himanishprakash/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/himanishprakash/Leetcode/tree/master/1127-last-stone-weight) |
 | [1165-meeting-scheduler](https://github.com/himanishprakash/Leetcode/tree/master/1165-meeting-scheduler) |
 | [1184-car-pooling](https://github.com/himanishprakash/Leetcode/tree/master/1184-car-pooling) |
