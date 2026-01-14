@@ -1,17 +1,16 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         
-
-        answer = {}
+        number = {}
+        result = []
 
         for i in range(len(nums)):
-            answer[nums[i]] = i
+            number[nums[i]] = i
 
-        
-        for j in range(len(nums)):
+        for i in range(len(nums)):
 
-            comp = target - nums[j]
+            subs = target - nums[i]
+
+            if subs in number and number[subs] != i:
+                return i, number[subs]
             
-            if comp in answer and answer[comp] != j:
-                
-                return j, answer[comp]
