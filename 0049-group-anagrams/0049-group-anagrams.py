@@ -1,13 +1,10 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         
-        dicts = defaultdict(list)
+        diction = defaultdict(list)
 
         for i in strs:
+            s = ''.join(sorted(i))
+            diction[s].append(i)
 
-            string = ''.join(sorted(i))
-
-            dicts[string].append(i)
-
-
-        return list(dicts.values())
+        return list(diction.values())
