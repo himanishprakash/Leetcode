@@ -3,21 +3,19 @@ class Solution:
         
         counts = Counter(nums)
 
-        bucket = []
-        result = []
+        freq = [] 
+
         for _ in range(len(nums) + 1):
-            bucket.append([])
-
-        for key, value in counts.items():
-            bucket[value].append(key)
-
-        for i in range(len(bucket) - 1, 0, -1):
-
-            for num in bucket[i]:
-                result.append(num)
-
-                if len(result) == k:
-                    return  result
-
-
+            freq.append([])            
         
+        for num, count in counts.items():
+            freq[count].append(num)
+
+        result = []
+
+        for i in range(len(freq) - 1, 0 , -1):
+
+            for num in freq[i]:
+                result.append(num)
+                if len(result) == k:
+                    return result
