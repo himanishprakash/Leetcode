@@ -1,16 +1,16 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         
-        number = {}
+
+        dictionary = {}
         result = []
 
         for i in range(len(nums)):
-            number[nums[i]] = i
+            dictionary[nums[i]] =  i 
+
 
         for i in range(len(nums)):
+            sums = target - nums[i]
 
-            subs = target - nums[i]
-
-            if subs in number and number[subs] != i:
-                return i, number[subs]
-            
+            if sums in dictionary and i != dictionary[sums]:
+                return i, dictionary[sums]
