@@ -100,6 +100,7 @@ Explain each solution in my own language
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/himanishprakash/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/himanishprakash/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/himanishprakash/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/himanishprakash/Leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/himanishprakash/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Greedy
 |  |
@@ -114,6 +115,7 @@ Explain each solution in my own language
 | [2140-longest-subsequence-repeated-k-times](https://github.com/himanishprakash/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/himanishprakash/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/himanishprakash/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/himanishprakash/Leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/himanishprakash/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Sorting
 |  |
@@ -253,6 +255,7 @@ Explain each solution in my own language
 | [2012-process-tasks-using-servers](https://github.com/himanishprakash/Leetcode/tree/master/2012-process-tasks-using-servers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/himanishprakash/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/himanishprakash/Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/himanishprakash/Leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
