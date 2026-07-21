@@ -2,12 +2,13 @@ class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         
 
-        result = defaultdict(list)
+        results = defaultdict(list)
 
-        for i in strs:
+        for i in strs: 
+            
+            answer = ''.join(sorted(i))
 
-            sudo  =''.join(sorted(i))
+            results[answer].append(i)
 
-            result[sudo].append(i)
 
-        return list(result.values())
+        return list(results.values())
