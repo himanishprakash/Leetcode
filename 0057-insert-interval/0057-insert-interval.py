@@ -2,10 +2,25 @@ class Solution:
     def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
         
 
-        intervals.append(newInterval)
+        if not intervals:
+            return [newInterval]
 
-        intervals.sort()
+        n = len(intervals)
+        left , right = 0 , n - 1
 
+        target = newInterval[0]
+
+        while left <= right:
+            mid = (left + right) // 2
+
+            if intervals[mid][0] < target:
+                left  = mid + 1
+            else:
+                right = mid - 1
+
+        intervals.insert(left,newInterval)
+
+        
         result = []
 
         for i in intervals:
@@ -16,3 +31,5 @@ class Solution:
                 result[-1][1] = max(result[-1][1], i[1])
 
         return result
+
+        
