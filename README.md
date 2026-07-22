@@ -66,6 +66,7 @@ Explain each solution in my own language
 | [0056-merge-intervals](https://github.com/himanishprakash/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/himanishprakash/Leetcode/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/himanishprakash/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0088-merge-sorted-array](https://github.com/himanishprakash/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanishprakash/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/himanishprakash/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/himanishprakash/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -127,6 +128,7 @@ Explain each solution in my own language
 | ------- |
 | [0049-group-anagrams](https://github.com/himanishprakash/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/himanishprakash/Leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/himanishprakash/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/himanishprakash/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/himanishprakash/Leetcode/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/himanishprakash/Leetcode/tree/master/0252-meeting-rooms) |
@@ -219,6 +221,7 @@ Explain each solution in my own language
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/himanishprakash/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/himanishprakash/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/himanishprakash/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0253-meeting-rooms-ii](https://github.com/himanishprakash/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [1028-interval-list-intersections](https://github.com/himanishprakash/Leetcode/tree/master/1028-interval-list-intersections) |
 | [1165-meeting-scheduler](https://github.com/himanishprakash/Leetcode/tree/master/1165-meeting-scheduler) |
