@@ -66,6 +66,7 @@ Explain each solution in my own language
 | [0056-merge-intervals](https://github.com/himanishprakash/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/himanishprakash/Leetcode/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/himanishprakash/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/himanishprakash/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/himanishprakash/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/himanishprakash/Leetcode/tree/master/0134-gas-station) |
 | [0217-contains-duplicate](https://github.com/himanishprakash/Leetcode/tree/master/0217-contains-duplicate) |
@@ -180,6 +181,7 @@ Explain each solution in my own language
 | ------- |
 | [0042-trapping-rain-water](https://github.com/himanishprakash/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/himanishprakash/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/himanishprakash/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/himanishprakash/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/himanishprakash/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1343-dice-roll-simulation](https://github.com/himanishprakash/Leetcode/tree/master/1343-dice-roll-simulation) |
