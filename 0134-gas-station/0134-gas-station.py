@@ -8,10 +8,10 @@ class Solution:
         start = 0
         for i in range(len(gas)):
 
-            if gas[i] - cost[i] > 0:
-                current_gas += gas[i] - cost[i]
+            
+            current_gas += gas[i] - cost[i]
 
-            else:
+            if current_gas < 0:
                 current_gas = 0
                 start = i + 1
 
