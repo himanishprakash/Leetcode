@@ -13,7 +13,7 @@ class Solution:
             if q < 0:
                 break
 
-            if q >= 0 and nums1[p] > nums2[q]:
+            if p >= 0 and nums1[p] > nums2[q]:
                 nums1[i] = nums1[p]
                 p -=1
 
