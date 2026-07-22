@@ -8,11 +8,11 @@ class Solution:
         q = n -1
 
         for i in range(m + n - 1, - 1, -1):
-            if q< 0: 
+            if q < 0: 
                 break
 
             
-            if p > 0 and nums1[p] > nums2[q]:
+            if p >= 0 and nums1[p] > nums2[q]:
                 nums1[i] = nums1[p]
                 p -= 1
 
