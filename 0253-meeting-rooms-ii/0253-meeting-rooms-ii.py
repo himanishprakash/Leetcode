@@ -1,15 +1,30 @@
 class Solution:
     def minMeetingRooms(self, intervals: List[List[int]]) -> int:
+        
+        start = []
+        end= []
+        for i in intervals:
+            start.append(i[0])
+            end.append(i[1])
 
-        intervals.sort()
+        start.sort()
+        end.sort()
 
-        array = []
-        heappush(array,intervals[0][1] )
-        for i in intervals[1:]:
+        starts, ends = 0, 0
+        result, count = 0, 0
 
-            if array[0] <= i[0]:
-                heappop(array)      
-            
-            heappush(array,i[1])  
+        while starts < len(intervals):
 
-        return len(array)
+            if ends >= len(end) or start[starts] < end[ends]:
+
+                starts += 1
+                count += 1
+
+            else:
+                count -= 1
+                ends += 1
+
+            result = max(result,count)
+
+
+        return result
