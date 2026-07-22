@@ -33,6 +33,7 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/himanishprakash/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/himanishprakash/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/himanishprakash/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/himanishprakash/Leetcode/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/himanishprakash/Leetcode/tree/master/0271-encode-and-decode-strings) |
@@ -170,6 +171,7 @@ Explain each solution in my own language
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/himanishprakash/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/himanishprakash/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/himanishprakash/Leetcode/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/himanishprakash/Leetcode/tree/master/0883-car-fleet) |
