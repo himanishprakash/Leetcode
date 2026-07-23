@@ -1,29 +1,30 @@
 class LRUCache:
 
     def __init__(self, capacity: int):
-
         self.capacity = capacity
-        self.dict = OrderedDict()
-        
+        self.diction = OrderedDict()
+
     def get(self, key: int) -> int:
 
-        if key not in self.dict:
+        if key not in self.diction:
             return -1
-        
-        self.dict.move_to_end(key)
 
-        return self.dict[key]
-        
+        self.diction.move_to_end(key)
+
+        return self.diction[key]
 
     def put(self, key: int, value: int) -> None:
+        if key in self.diction:
+            self.diction.move_to_end(key)
+        
+        self.diction[key] = value
 
-        if key in self.dict:
-            self.dict.move_to_end(key)
+        if len(self.diction) > self.capacity:
+            self.diction.popitem(False)
 
-        self.dict[key] = value
 
-        if len(self.dict) > self.capacity:
-            self.dict.popitem(False)
+        
+
 
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
