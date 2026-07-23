@@ -25,6 +25,7 @@ Explain each solution in my own language
 ## Math
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/himanishprakash/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/himanishprakash/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/himanishprakash/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/himanishprakash/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -35,6 +36,7 @@ Explain each solution in my own language
 | [0014-longest-common-prefix](https://github.com/himanishprakash/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/himanishprakash/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/himanishprakash/Leetcode/tree/master/0049-group-anagrams) |
+| [0227-basic-calculator-ii](https://github.com/himanishprakash/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/himanishprakash/Leetcode/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/himanishprakash/Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0383-ransom-note](https://github.com/himanishprakash/Leetcode/tree/master/0383-ransom-note) |
@@ -173,6 +175,7 @@ Explain each solution in my own language
 | ------- |
 | [0020-valid-parentheses](https://github.com/himanishprakash/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/himanishprakash/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0227-basic-calculator-ii](https://github.com/himanishprakash/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0735-asteroid-collision](https://github.com/himanishprakash/Leetcode/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/himanishprakash/Leetcode/tree/master/0883-car-fleet) |
 | [1628-count-submatrices-with-all-ones](https://github.com/himanishprakash/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
