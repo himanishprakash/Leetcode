@@ -26,6 +26,7 @@ Explain each solution in my own language
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/himanishprakash/Leetcode/tree/master/0007-reverse-integer) |
 | [0227-basic-calculator-ii](https://github.com/himanishprakash/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/himanishprakash/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/himanishprakash/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
