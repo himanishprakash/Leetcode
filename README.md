@@ -67,6 +67,7 @@ Explain each solution in my own language
 | ------- |
 | [0001-two-sum](https://github.com/himanishprakash/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/himanishprakash/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/himanishprakash/Leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/himanishprakash/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/himanishprakash/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/himanishprakash/Leetcode/tree/master/0056-merge-intervals) |
@@ -116,6 +117,7 @@ Explain each solution in my own language
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/himanishprakash/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/himanishprakash/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/himanishprakash/Leetcode/tree/master/0134-gas-station) |
 | [0253-meeting-rooms-ii](https://github.com/himanishprakash/Leetcode/tree/master/0253-meeting-rooms-ii) |
@@ -227,6 +229,7 @@ Explain each solution in my own language
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/himanishprakash/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/himanishprakash/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/himanishprakash/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/himanishprakash/Leetcode/tree/master/0088-merge-sorted-array) |
