@@ -68,6 +68,7 @@ Explain each solution in my own language
 | [0001-two-sum](https://github.com/himanishprakash/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/himanishprakash/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/himanishprakash/Leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/himanishprakash/Leetcode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/himanishprakash/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/himanishprakash/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/himanishprakash/Leetcode/tree/master/0056-merge-intervals) |
@@ -134,6 +135,7 @@ Explain each solution in my own language
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/himanishprakash/Leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/himanishprakash/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/himanishprakash/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/himanishprakash/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -230,6 +232,7 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/himanishprakash/Leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/himanishprakash/Leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/himanishprakash/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/himanishprakash/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/himanishprakash/Leetcode/tree/master/0088-merge-sorted-array) |
