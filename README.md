@@ -251,12 +251,14 @@ Explain each solution in my own language
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/himanishprakash/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/himanishprakash/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0146-lru-cache](https://github.com/himanishprakash/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/himanishprakash/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/himanishprakash/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/himanishprakash/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/himanishprakash/Leetcode/tree/master/0206-reverse-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/himanishprakash/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
